@@ -20,7 +20,7 @@ This demo will give you a `raygun` on spawn in single player zombie mode.
 
 > Note: This project is intended to be a starting point for more advanced `GSC` modding.
 
-# Instructions
+# Build
 
 Run: `git submodule update --init --recursive` to clone submodules.
 
