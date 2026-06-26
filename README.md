@@ -27,7 +27,7 @@ Run: `git submodule update --init --recursive` to clone submodules.
 Then build project using either:
 
 * The provided `Makefile` in `WSL` (`Windows`)
-* The provided [`premake5.lua`](https://premake.github.io/) script by running `premake5 vs2022` to generate a Visual Studio 2022 Project
+* The provided [`premake5.lua`](https://premake.github.io/) script by running `premake5 vs2022` to generate a Visual Studio 2022 Project and run `msbuild gsctool.sln`.
 
 Finally build and inject the resulting `DLL`.
 
